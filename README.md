@@ -12,10 +12,6 @@ This PowerShell script processes user information from a CSV file and sets the m
 
 1. **Edit the Script**:
    - Open the script file.
-   - Ensure the CSV file path is correctly set in the script:
-     ```powershell
-     $XLloc = "C:\Users\rajab\Downloads\Trader.ca\Simcoe\Quest\OneDrive\OneDriveReadOnly\"
-     ```
    - Modify the path if necessary to point to the location of your `0sendsizeusers.csv` file.
 
 2. **Prepare the CSV File**:
